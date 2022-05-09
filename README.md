@@ -9,5 +9,5 @@ Redirect to your URL @ `example.com/{short}`
 
 ## Development
 
-- set `DATABASE_URL`(mongo) to `.env` file\
+- set `DATABASE_URL`(mongo) to `.env` file
 - `yarn dev`
